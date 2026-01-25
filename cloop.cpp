@@ -1,8 +1,11 @@
-#include<iostream>
+ #include<iostream>
 using namespace std;
 int main() {
 
- for(int i=0;i<10;i++) {
-  cout<<"hello world";
- }
+  int n;
+  cin>>n;
+  for(int count =1;count<=n;count++) {
+    cout<<count<<endl;
+  }
+  
 }
