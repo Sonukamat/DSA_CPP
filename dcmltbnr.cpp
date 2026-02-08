@@ -8,15 +8,15 @@ int main() {
   while(num>0)
   {
     //remender to declare variable inside the loop
-    rem=num%2;
+    rem=num%2;//2nd way rem=num&1;
 
     //quotient and remainder
-    num=num/2;
+    num=num/2;//or num>>1;
     //ans
     ans=rem*mul+ans;
 
     //mul
-    mul=mul*10;
+    mul=mul*10;  
 
   }
   cout<<ans<<endl;
