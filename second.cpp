@@ -1,4 +1,6 @@
 #include<iostream>
+#include<windows.h>
+#include<string>
 using namespace std;
 int main() {
   int a,b;
@@ -7,5 +9,6 @@ int main() {
   cout<<"enter your 2nd number";
   cin>>b;
   cout<<a+b;
+
   return 0;
 }
