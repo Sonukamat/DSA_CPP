@@ -8,12 +8,31 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v4
 
+    - name: Create Global Precompiled Header for LeetCode/GFG
+      run: |
+        cat << 'EOF' > leetcode_headers.h
+        #include <iostream>
+        #include <vector>
+        #include <string>
+        #include <algorithm>
+        #include <cmath>
+        #include <climits>
+        #include <map>
+        #include <set>
+        #include <unordered_map>
+        #include <unordered_set>
+        #include <stack>
+        #include <queue>
+        #include <utility>
+        #include <numeric>
+        using namespace std;
+        EOF
+
     - name: Compile and Check C++ Files
       run: |
-        find . -name "*.cpp" -exec g++ -std=c++17 -fsyntax-only {} +
+        find . -name "*.cpp" -exec g++ -std=c++17 -include leetcode_headers.h -fsyntax-only {} +
