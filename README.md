@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sonukamat/DSA_CPP/tree/master/0042-trapping-rain-water) |
 | [0875-koko-eating-bananas](https://github.com/Sonukamat/DSA_CPP/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
@@ -30,4 +31,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Sonukamat/DSA_CPP/tree/master/0231-power-of-two) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Sonukamat/DSA_CPP/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Sonukamat/DSA_CPP/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Sonukamat/DSA_CPP/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Sonukamat/DSA_CPP/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
