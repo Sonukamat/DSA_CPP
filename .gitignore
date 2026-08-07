@@ -4,3 +4,4 @@
 /impl.cpp
 /impl.exe
 *.exe
+*.out
