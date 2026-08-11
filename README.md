@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sonukamat/DSA_CPP/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Sonukamat/DSA_CPP/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sonukamat/DSA_CPP/tree/master/0054-spiral-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Sonukamat/DSA_CPP/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sonukamat/DSA_CPP/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/Sonukamat/DSA_CPP/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Sonukamat/DSA_CPP/tree/master/0258-add-digits) |
 ## Simulation
@@ -52,5 +54,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sonukamat/DSA_CPP/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sonukamat/DSA_CPP/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
