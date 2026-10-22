@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Sonukamat/DSA_CPP/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/Sonukamat/DSA_CPP/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Sonukamat/DSA_CPP/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/Sonukamat/DSA_CPP/tree/master/0415-add-strings) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sonukamat/DSA_CPP/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Sonukamat/DSA_CPP/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/Sonukamat/DSA_CPP/tree/master/0415-add-strings) |
 ## Number Theory
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Sonukamat/DSA_CPP/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/Sonukamat/DSA_CPP/tree/master/0415-add-strings) |
 | [1108-defanging-an-ip-address](https://github.com/Sonukamat/DSA_CPP/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Sonukamat/DSA_CPP/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Greedy
