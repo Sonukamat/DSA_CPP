@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sonukamat/DSA_CPP/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Sonukamat/DSA_CPP/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/Sonukamat/DSA_CPP/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Sonukamat/DSA_CPP/tree/master/0258-add-digits) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sonukamat/DSA_CPP/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Sonukamat/DSA_CPP/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/Sonukamat/DSA_CPP/tree/master/0409-longest-palindrome) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Sonukamat/DSA_CPP/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sonukamat/DSA_CPP/tree/master/0013-roman-to-integer) |
 | [0409-longest-palindrome](https://github.com/Sonukamat/DSA_CPP/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Sonukamat/DSA_CPP/tree/master/0415-add-strings) |
 | [1108-defanging-an-ip-address](https://github.com/Sonukamat/DSA_CPP/tree/master/1108-defanging-an-ip-address) |
